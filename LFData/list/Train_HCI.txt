@@ -1,0 +1,12 @@
+boardgames
+dishes
+kitchen
+medieval2
+museum
+pens
+pillows
+platonic
+table
+tomb
+tower
+vinyl 

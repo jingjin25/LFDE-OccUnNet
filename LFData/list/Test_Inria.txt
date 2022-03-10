@@ -1,0 +1,11 @@
+Black&white_dense
+Blue_room_dense
+Camera_brush_dense
+Coffee_beans_vases_dense
+Dinosaur_dense
+Dishes_dense
+Green_balloon_dense
+Kiwi_bike_dense
+Microphone_rooster_dense
+Roses_table_dense
+Smiling_crowd_dense
